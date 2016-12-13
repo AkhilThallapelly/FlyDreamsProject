@@ -1,0 +1,31 @@
+
+
+events table
+
+event id
+event name
+event description
+created by
+created date
+updated by 
+updated date
+
+
+
+orders table
+
+ordernumber
+eventregistred                 -- fk event id
+eventdate
+event time
+eventplace
+custid                         -- fk
+approved
+
+
+customers info
+
+custid                       -- pk
+custname
+emailid
+phonenumber
