@@ -16,6 +16,11 @@ div.menuItems:active {
     border: 1px rgba(8, 117, 31, 0.72) solid;
     cursor: pointer;
 }*/
+.carousel{
+    width:80%;
+    height:90%;     
+    margin-left:10%;
+}
 .menuItems {
     text-align: center;
     padding-top: 0.7%;
